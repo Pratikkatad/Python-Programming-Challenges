@@ -66,4 +66,6 @@ Enter your string :aabbbccdddae
 
 Encoded: 2a3b2c3d1a1e
 
-Each challenge is explained in detail with code and explanations to ensure clarity and understanding. These programs are useful for practicing Python programming and problem-solving skill
+
+
+These programs are useful for practicing Python programming and problem-solving skill
